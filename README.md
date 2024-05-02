@@ -10,10 +10,10 @@ An easy-going person, with a great sense of humor, which encourages a collaborat
 
 <h3> Tech Stack</h3>
 
-- Python, Pyspark
-- SQL, PostgreSQL, MySQL
+- Python, Spark, Pyspark
+- SQL, PostgreSQL
 - Git, GitHub
-- Visual Studio Code, Pycharm, Databriks, Jupyter
+- VSCode, Pycharm, Azure Databriks, Jupyter
 
 
 <a href="https://github.com/JoaoPAmbrosio">
@@ -24,4 +24,4 @@ An easy-going person, with a great sense of humor, which encourages a collaborat
 <h3> Connect with Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao_Ambrosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopambrosio//)](https://www.linkedin.com/in/joaopambrosio/) 
-[![Gmail Badge](https://img.shields.io/badge/-joao.ambrosio1@aluno.ufop.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.ambrosio1@aluno.ufop.edu.br)](mailto:joao.ambrosio1@aluno.ufop.edu.br)
+[![Gmail Badge](https://img.shields.io/badge/-joaopambrosio@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopambrosio@outlook.com)](mailto:joaopambrosio@outlook.com)
