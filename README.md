@@ -4,8 +4,8 @@ An easy-going person, with a great sense of humor, which encourages a collaborat
 
 <h3> About Me </h3>
 
+- Data Scientist at Oper.
 - Engineer, Federal University of Ouro Preto (UFOP).
-- Working as a Data Scientist at InfoPrice.
 - Learning more about Machine Learning and Artificial Intelligence.
 
 <h3> Tech Stack</h3>
