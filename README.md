@@ -10,7 +10,7 @@ An easy-going person, with a great sense of humor, which encourages a collaborat
 
 <h3> Tech Stack</h3>
 
-- Python, Spark, Pyspark
+- Python, Spark, Pyspark, R
 - SQL, PostgreSQL
 - Git, GitHub
 - VSCode, Pycharm, Azure Databriks, Jupyter
